@@ -1,0 +1,411 @@
+{ "products" : [
+  {
+    "id": "1",
+    "name": "Black Artisan Hoodie",
+    "price": "750.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Pitch black tailored from scratch with local materials. It has Artisan lettering at the back with an overview of the beautiful city of Baguio, Philippines.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/blackartisanhoodie.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "2",
+    "name": "White Artisan Hoodie",
+    "price": "700.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Pitch black tailored from scratch with local materials. It has Artisan lettering at the back with an overview of the beautiful city of Baguio, Philippines.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/whiteartisanhoodie.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "3",
+    "name": "Blue Artisan Hoodie",
+    "price": "700.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Blue tailored from scratch with local materials. It has Artisan lettering at the back with an overview of the beautiful city of Baguio, Philippines.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/navy-hoodie-artisan.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "4",
+    "name": "White Artisan EST Hoodie",
+    "price": "550.00",
+    "review": 5,
+    "instock": true,
+    "desc": "White hoodie with Artisan established tribal logo in front.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/artisan-est-front-white.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "5",
+    "name": "Navy blue Artisan EST Hoodie",
+    "price": "550.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Navy blue hoodie with Artisan established tribal logo in front.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/artisan-est-front-navy.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "6",
+    "name": "Black Artisan EST Hoodie",
+    "price": "550.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Black hoodie with Artisan established tribal logo in front.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/artisan-est-front-black.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "7",
+    "name": "Modern Black Artisan Hoodie",
+    "price": "550.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Navy blue hoodie with Artisan modern and minimalistic logo in front.",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/black-hoodie-modern-logo.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "8",
+    "name": "White Equality Hoodie",
+    "price": "750.00",
+    "review": 5,
+    "instock": true,
+    "desc": "White hoodie with RAINBOW COLOR, LABEL, AND PATTERN at the back",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/white-back-rainbow.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "9",
+    "name": "Pitch Black Equality Hoodie",
+    "price": "750.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Black hoodie with RAINBOW COLOR, LABEL, AND PATTERN at the back",
+    "category": "Unisex",
+    "subcat": "Hoodie",
+    "img": [
+      {
+        "med": "images/products/black-back-rainbow.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "10",
+    "name": "Minimal white sweatshirt",
+    "price": "450.00",
+    "review": 5,
+    "instock": true,
+    "desc": "White sweatshirt with minimalistic embroidered Artisan logo at the upper back.",
+    "category": "Unisex",
+    "subcat": "Sweatshirt",
+    "img": [
+      {
+        "med": "images/products/back-white-sws.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "11",
+    "name": "Black Sweatshirt, Harrison print",
+    "price": "600.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Black sweatshirt with Harrison road print and Artisan label pattern in front.",
+    "category": "Unisex",
+    "subcat": "Sweatshirt",
+    "img": [
+      {
+        "med": "images/products/sws-black-harrison.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "12",
+    "name": "White Sweatshirt, Harrison print",
+    "price": "600.00",
+    "review": 5,
+    "instock": true,
+    "desc": "White sweatshirt with Harrison road print and Artisan label pattern in front.",
+    "category": "Unisex",
+    "subcat": "Sweatshirt",
+    "img": [
+      {
+        "med": "images/products/sws-white-harrison.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "13",
+    "name": "Minimal black sweatshirt",
+    "price": "450.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Black sweatshirt with minimalistic embroidered Artisan logo at the upper back.",
+    "category": "Unisex",
+    "subcat": "Sweatshirt",
+    "img": [
+      {
+        "med": "images/products/back-sws.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "14",
+    "name": "T-Series: I'm Baguio (Black-beauty)",
+    "price": "400.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Black T-shirt with vertical Baguio City Tribal inspired font style label.",
+    "category": "Unisex",
+    "subcat": "T-shirt",
+    "img": [
+      {
+        "med": "images/products/black-shirt-vertical.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "15",
+    "name": "T-Series: I'm Artisan (Black)",
+    "price": "400.00",
+    "review": 5,
+    "instock": true,
+    "desc": "Black T-shirt with 'Artisan Baguio' Pattern and \"Baybayin\" version of Artisan label at the lower left of the shirt.",
+    "category": "Unisex",
+    "subcat": "T-shirt",
+    "img": [
+      {
+        "med": "images/products/black-shirt-artisan.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "16",
+    "name": "T-Series: I'm Baguio (White-fairy)",
+    "price": "400.00",
+    "review": 5,
+    "instock": true,
+    "desc": "White T-shirt with vertical Baguio City Tribal inspired font style label.",
+    "category": "Unisex",
+    "subcat": "T-shirt",
+    "img": [
+      {
+        "med": "images/products/white-shirt-vertical.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "17",
+    "name": "T-Series: I'm Artisan (White)",
+    "price": "400.00",
+    "review": 5,
+    "instock": true,
+    "desc": "White T-shirt with 'Artisan Baguio' Pattern and \"Baybayin\" version of Artisan label at the lower left of the shirt.",
+    "category": "Unisex",
+    "subcat": "T-shirt",
+    "img": [
+      {
+        "med": "images/products/white-shirt-artisan.png",
+        "small": ""
+      }]
+  },
+
+  {
+    "id": "18",
+    "name": "Artisan baseball cap",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Unisex baseball cap with artisan label and logo.",
+    "category": "Unisex",
+    "subcat": "Head ware",
+    "img": [
+      {
+        "med": "images/products/bb-cap-black-artisan.png",
+        "small": ""
+      }]
+  },
+
+  {
+    "id": "19",
+    "name": "Artisan Beenie red",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Weaved Black Beenie with red stripes and \"ARTISAN\" label.",
+    "category": "Unisex",
+    "subcat": "Head ware",
+    "img": [
+      {
+        "med": "images/products/beenie-red.png",
+        "small": ""
+      }]
+  },
+
+  {
+    "id": "20",
+    "name": "Apay Beenie",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Weaved Black Beenie with \"APAY\" label.",
+    "category": "Unisex",
+    "subcat": "Head ware",
+    "img": [
+      {
+        "med": "images/products/apay-beenie.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "21",
+    "name": "Artisan Beenie blue",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Weaved Black Beenie with blue stripes and \"ARTISAN\" label.",
+    "category": "Unisex",
+    "subcat": "Head ware",
+    "img": [
+      {
+        "med": "images/products/beenie-blue.png",
+        "small": ""
+      }]
+  },
+
+  {
+    "id": "22",
+    "name": "Black Artisan B-hat",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Unisex bucket hat with artisan tribal logo.",
+    "category": "Unisex",
+    "subcat": "Head ware",
+    "img": [
+      {
+        "med": "images/products/bucket-hat-black-artisan.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "23",
+    "name": "Black Baybayin Artisan B-hat",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Unisex bucket hat with the baybayin artisan label.",
+    "category": "Unisex",
+    "subcat": "Head ware",
+    "img": [
+      {
+        "med": "images/products/bucket-hat-black-baybayin.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "24",
+    "name": "White Baybayin Sweat pants",
+    "price": "700.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Unisex white sweat pants with Artisan Baybayin prints on the left leg.",
+    "category": "Unisex",
+    "subcat": "Bottom",
+    "img": [
+      {
+        "med": "images/products/BaybayinArtisanSweatpants-White.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "25",
+    "name": "White Baguio Zipcode Sweat pants",
+    "price": "700.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Unisex white sweat pants with Baguio Zipcode labels on the right leg.",
+    "category": "Unisex",
+    "subcat": "Bottom",
+    "img": [
+      {
+        "med": "images/products/ZipCodeSweatpants-White.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "26",
+    "name": "Black sweat shorts for Ladies",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Minimalistic black shorts perfect for warm places designed for the ladies. It has Artisan logo at the upper right corner of the shorts.",
+    "category": "Unisex",
+    "subcat": "Bottom",
+    "img": [
+      {
+        "med": "images/products/sweatshorts-w.png",
+        "small": ""
+      }]
+  },
+  {
+    "id": "27",
+    "name": "Black sweat shorts for Males",
+    "price": "180.00",
+    "review": 4,
+    "instock": true,
+    "desc": "Minimalistic black shorts perfect for warm places designed for the gentlemen. It has Artisan logo at the lower left corner of the shorts.",
+    "category": "Unisex",
+    "subcat": "Bottom",
+    "img": [
+      {
+        "med": "images/products/sweatshorts-m.png",
+        "small": ""
+      }]
+  }
+]}

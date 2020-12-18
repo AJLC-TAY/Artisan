@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "productid": "1",
+      "qty": "5"
+    },
+    {
+      "productid": "24",
+      "qty": "2"
+    },
+    {
+      "productid": "5",
+      "qty": "2"
+    },
+    {
+      "productid": "22",
+      "qty": "3"
+    },
+    {
+      "productid": "8",
+      "qty": "5"
+    },
+    {
+      "productid": "11",
+      "qty": "1"
+    }
+  ]
+}
